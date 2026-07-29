@@ -32,6 +32,7 @@ clean-targets:         # directories to be removed by `dbt clean`
 seeds:
   bookings_dbt:
     +schema: RAW
+    +quote_columns: true
 models:
   bookings_dbt:
     staging:
