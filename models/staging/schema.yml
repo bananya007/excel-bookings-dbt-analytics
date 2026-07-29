@@ -8,6 +8,7 @@ models:
         description: Identifier for the booking transaction.
         tests:
           - not_null
+          - unique
 
       - name: booking_date
         description: Booking date converted to a Snowflake date.
@@ -17,6 +18,11 @@ models:
       - name: currency
         description: Three-letter currency code for the local amount.
         tests:
+          - not_null
+      
+      - name: rep_id
+        description: Stable representative identifier resolved from teh rep master mapping.
+        tests: 
           - not_null
 
   - name: stg_rates
