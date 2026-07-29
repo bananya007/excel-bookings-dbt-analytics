@@ -1,0 +1,74 @@
+version: 2
+
+models:
+  - name: stg_bookings
+    description: Cleaned booking transactions from the workbook.
+    columns:
+      - name: booking_id
+        description: Identifier for the booking transaction.
+        tests:
+          - not_null
+
+      - name: booking_date
+        description: Booking date converted to a Snowflake date.
+        tests:
+          - not_null
+
+      - name: currency
+        description: Three-letter currency code for the local amount.
+        tests:
+          - not_null
+
+  - name: stg_rates
+    description: Cleaned currency conversion rates.
+    columns:
+      - name: currency
+        description: Currency code.
+        tests:
+          - not_null
+
+      - name: rate_to_usd
+        description: Conversion rate from the currency to USD.
+        tests:
+          - not_null
+
+      - name: effective_date
+        description: Date on which the rate became effective.
+        tests:
+          - not_null
+
+  - name: stg_rep_targets
+    description: Cleaned annual sales representative targets.
+    columns:
+      - name: rep_id
+        description: Stable representative identifier.
+        tests:
+          - not_null
+
+      - name: target_year
+        description: Year to which the target applies.
+        tests:
+          - not_null
+
+      - name: annual_quota_usd
+        description: Annual quota expressed in USD.
+        tests:
+          - not_null
+
+  - name: stg_rep_master
+    description: Cleaned mapping from representative aliases to stable IDs.
+    columns:
+      - name: alias_name
+        description: Name as it may appear in booking or target data.
+        tests:
+          - not_null
+
+      - name: canonical_name
+        description: Standardized representative name.
+        tests:
+          - not_null
+
+      - name: rep_id
+        description: Stable representative identifier.
+        tests:
+          - not_null
