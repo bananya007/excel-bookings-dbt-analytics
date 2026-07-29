@@ -1,0 +1,6 @@
+Currency,Rate to USD,Effective Date,Source
+USD,1.0,2024-01-01,Finance rate card
+EUR,1.09,2024-01-01,Finance rate card
+GBP,1.28,2024-01-01,Finance rate card
+INR,0.012,2024-01-01,Finance rate card
+CAD,0.74,2024-01-01,Finance rate card
