@@ -52,6 +52,6 @@ select
     case 
         when g.grand_total_usd = 0 then 0
         else r.total_bookings_usd / g.grand_total_usd 
-    end as pct_of_grand_total 
+    end as pct_of_grand_total
 from regional r 
 cross join grand_total g
