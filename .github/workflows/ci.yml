@@ -1,0 +1,81 @@
+name: dbt CI
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate dbt project
+    runs-on: ubuntu-latest
+
+    env:
+      DBT_PROFILES_DIR: ${{ runner.temp }}/dbt_profiles
+      SNOWFLAKE_ACCOUNT: ${{ secrets.SNOWFLAKE_ACCOUNT }}
+      SNOWFLAKE_USER: ${{ secrets.SNOWFLAKE_USER }}
+      SNOWFLAKE_PASSWORD: ${{ secrets.SNOWFLAKE_PASSWORD }}
+      SNOWFLAKE_ROLE: ${{ secrets.SNOWFLAKE_ROLE }}
+      SNOWFLAKE_DATABASE: ${{ secrets.SNOWFLAKE_DATABASE }}
+      SNOWFLAKE_WAREHOUSE: ${{ secrets.SNOWFLAKE_WAREHOUSE }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install \
+            "dbt-core==1.12.0" \
+            "dbt-snowflake==1.12.0" \
+            "pandas==2.3.3" \
+            "openpyxl==3.1.5" \
+            "snowflake-connector-python[pandas]==4.7.1"
+
+      - name: Extract workbook inputs
+        run: python scripts/extract_workbook.py
+
+      - name: Check extracted seeds are reproducible
+        run: git diff --exit-code -- seeds
+
+      - name: Create CI dbt profile
+        run: |
+          mkdir -p "$DBT_PROFILES_DIR"
+          cat > "$DBT_PROFILES_DIR/profiles.yml" <<'YAML'
+          bookings_dbt:
+            target: ci
+            outputs:
+              ci:
+                type: snowflake
+                account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"
+                user: "{{ env_var('SNOWFLAKE_USER') }}"
+                password: "{{ env_var('SNOWFLAKE_PASSWORD') }}"
+                role: "{{ env_var('SNOWFLAKE_ROLE') }}"
+                database: "{{ env_var('SNOWFLAKE_DATABASE') }}"
+                warehouse: "{{ env_var('SNOWFLAKE_WAREHOUSE') }}"
+                schema: CI
+                threads: 4
+          YAML
+
+      - name: Parse dbt project
+        run: dbt parse --project-dir . --profiles-dir "$DBT_PROFILES_DIR"
+
+      - name: Compile dbt project
+        run: dbt compile --project-dir . --profiles-dir "$DBT_PROFILES_DIR"
+
+      - name: Build against Snowflake CI target
+        if: ${{ env.SNOWFLAKE_ACCOUNT != '' }}
+        run: dbt build --project-dir . --profiles-dir "$DBT_PROFILES_DIR" --target ci
