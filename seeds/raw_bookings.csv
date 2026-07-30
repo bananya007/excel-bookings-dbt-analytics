@@ -1,0 +1,404 @@
+BookingID,Booking Date,Customer,Region,Product,Deal Type,Sales Rep,Amount (Local),Currency
+BK10311,04/15/2024,Customer 113,central,AnalyticsAddon,Services,Luis Ortega,139902.51,INR
+BK10041,08/15/2024,Customer 045,west ,AnalyticsAddon,Renewal,Sara Cohen,7188.6,USD
+BK10034,06/08/2024,Customer 078,Central,SecuritySuite,Renewal,Luis Ortega,124686.99,CAD
+BK10161,06/18/2024,Customer 053,SOUTH,AnalyticsAddon,Services,Priya Sharma,111075.39,INR
+BK10277,2025-01-08,Customer 076,East ,CorePlatform,Services,John Smith,169906.56,USD
+BK10318,04/27/2025,Customer 076,East,CorePlatform,Support,John Smith,41186.5,CAD
+BK10323,06/16/2024,Customer 067,south,SecuritySuite,Renewal,Anna Kowalski,68820.89,INR
+BK10260,2024-02-02,Customer 049,EAST,DataConnect,New License,Tom Becker,115704.41,GBP
+BK10074,11/09/2024,Customer 071,Central ,SecuritySuite,Services,Luis Ortega,179403.77,EUR
+BK10018,2024-09-10,Customer 044,West,AnalyticsAddon,Renewal,Maria Garcia,4272.78,GBP
+BK10274,2025-02-09 00:00:00,Customer 103,central,DataConnect,Support,Luis Ortega,79219.07,INR
+BK10235,2024-10-20 00:00:00,Customer 099,South,DataConnect,Support,Priya Sharma,178735.62,USD
+BK10168,2024-12-09 00:00:00,Customer 005,west ,DataConnect,Renewal,Maria Garcia,137314.88,EUR
+BK10197,2024-06-10 00:00:00,Customer 062,SOUTH,AnalyticsAddon,Support,Anna Kowalski,110378.87,USD
+BK10036,2024-12-07 00:00:00,Customer 021,West,DataConnect,Services,Sara Cohen,102280.52,USD
+BK10232,2025-05-15 00:00:00,Customer 104,East,DataConnect,Renewal,Tom Becker,93844.87,EUR
+BK10073,2025-05-02 00:00:00,Customer 102,South,CorePlatform,Support,Anna Kowalski,42222.56,GBP
+BK10256,01/17/2025,Customer 085,EAST,CorePlatform,New License,Tom Becker,97201.61,EUR
+BK10039,2025-02-20,Customer 111,West,AnalyticsAddon,Services,Maria Garcia,7387.19,INR
+BK10369,01/31/2025,Customer 114,west ,SecuritySuite,Renewal,Sara Cohen,81902.22,USD
+BK10335,2025-06-16 00:00:00,Customer 059,south,CorePlatform,New License,Anna Kowalski,92460.71,GBP
+BK10090,2024-04-17 00:00:00,Customer 053,West,DataConnect,Support,Sara Cohen,120277.29,EUR
+BK10341,11/02/2024,Customer 004,central,DataConnect,Renewal,Wei Chen,19766.37,USD
+BK10371,2024-03-28 00:00:00,Customer 097,Central ,AnalyticsAddon,New License,Luis Ortega,151821.1,INR
+BK10259,01/17/2025,Customer 073,South,AnalyticsAddon,Support,Anna Kowalski,124075.37,CAD
+BK10338,2024-04-21 00:00:00,Customer 022,west ,DataConnect,Support,Maria Garcia,74952.72,EUR
+BK10399,2024-03-23 00:00:00,Customer 081,South,SecuritySuite,New License,Anna Kowalski,3834.29,USD
+BK10093,03/28/2025,Customer 035,East ,SecuritySuite,Services,John Smith,158909.85,EUR
+BK10263,01/17/2024,Customer 097,West,DataConnect,New License,Maria Garcia,55972.01,EUR
+BK10356,06/10/2024,Customer 084,SOUTH,AnalyticsAddon,Support,Anna Kowalski,42512.99,EUR
+BK10072,2024-10-09 00:00:00,Customer 011,East ,DataConnect,Services,John Smith,101266.19,USD
+BK10044,12/19/2024,Customer 078,Central ,CorePlatform,Services,Luis Ortega,162212.34,USD
+BK10139,2024-03-27 00:00:00,Customer 021,East,CorePlatform,Support,John Smith,81431.0,EUR
+BK10064,01/21/2024,Customer 017,west ,CorePlatform,Renewal,Maria Garcia,85311.02,USD
+BK10062,04/10/2025,Customer 098,central,SecuritySuite,Services,Luis Ortega,47652.06,USD
+BK10099,01/21/2025,Customer 112,South,AnalyticsAddon,Services,Anna Kowalski,44340.55,INR
+BK10174,04/16/2024,Customer 006,central,SecuritySuite,Renewal,Wei Chen,149977.91,GBP
+BK10155,2024-03-08 00:00:00,Customer 072,Central ,DataConnect,Support,Wei Chen,47603.25,CAD
+BK10149,2025-04-20 00:00:00,Customer 111,south,SecuritySuite,Renewal,Anna Kowalski,80838.02,EUR
+BK10290,2024-06-25 00:00:00,Customer 087,Central,SecuritySuite,New License,Wei Chen,45227.37,USD
+BK10092,06/10/2025,Customer 053,East,AnalyticsAddon,Support,Tom Becker,113206.2,EUR
+BK10350,02/29/2024,Customer 099,south,AnalyticsAddon,Renewal,Anna Kowalski,20723.78,GBP
+BK10386,2024-04-02,Customer 050,Central,AnalyticsAddon,Renewal,Wei Chen,154708.68,GBP
+BK10180,2024-10-29 00:00:00,Customer 078,Central ,DataConnect,Renewal,Luis Ortega,125088.37,USD
+BK10379,12/05/2024,Customer 096,west ,SecuritySuite,Support,Maria Garcia,6581.22,INR
+BK10179,2024-09-30 00:00:00,Customer 011,EAST,AnalyticsAddon,Support,Tom Becker,59854.42,USD
+BK10031,2024-03-15,Customer 080,East,CorePlatform,Renewal,Tom Becker,92541.59,USD
+BK10008,2024-08-12,Customer 030,Central,SecuritySuite,Services,Wei Chen,50390.14,USD
+BK10100,2024-02-14 00:00:00,Customer 091,central,DataConnect,Renewal,Luis Ortega,90673.17,USD
+BK10321,2024-03-08 00:00:00,Customer 094,Central,CorePlatform,Renewal,Luis Ortega,18259.67,EUR
+BK10119,03/05/2025,Customer 084,West,DataConnect,Services,Sara Cohen,169212.39,USD
+BK10248,01/16/2024,Customer 095,West,DataConnect,Renewal,Maria Garcia,126125.85,GBP
+BK10229,2025-01-17 00:00:00,Customer 097,south,AnalyticsAddon,Renewal,Anna Kowalski,123420.52,EUR
+BK10049,06/07/2025,Customer 085,South,SecuritySuite,Support,Priya Sharma,19529.53,BRL
+BK10249,02/10/2025,Customer 100,west ,DataConnect,Services,Sara Cohen,97456.07,USD
+BK10150,2024-11-06 00:00:00,Customer 046,Central ,CorePlatform,Support,Wei Chen,84728.42,USD
+BK10075,12/26/2024,Customer 040,SOUTH,AnalyticsAddon,New License,Anna Kowalski,130667.33,USD
+BK10300,2024-09-30 00:00:00,Customer 097,EAST,CorePlatform,Support,John Smith,156467.42,USD
+BK10157,2025-02-05 00:00:00,Customer 040,West,DataConnect,Support,Maria Garcia,146933.71,GBP
+BK10170,2024-11-04,Customer 031,EAST,DataConnect,New License,John Smith,22621.85,CAD
+BK10111,2024-02-20 00:00:00,Customer 100,South,SecuritySuite,Renewal,Anna Kowalski,115681.36,GBP
+BK10048,2024-11-07,Customer 056,Central ,SecuritySuite,Services,Wei Chen,81196.12,GBP
+BK10104,10/21/2024,Customer 056,West,CorePlatform,Services,Maria Garcia,32446.57,USD
+BK10282,2025-06-15 00:00:00,Customer 048,west ,DataConnect,Renewal,Sara Cohen,64059.23,USD
+BK10223,2024-07-16 00:00:00,Customer 021,EAST,SecuritySuite,Renewal,Tom Becker,5492.9,USD
+BK10225,2024-04-07 00:00:00,Customer 062,west ,AnalyticsAddon,New License,Maria Garcia,49158.99,USD
+BK10027,2024-03-03 00:00:00,Customer 007,Central ,DataConnect,Renewal,Wei Chen,13067.69,EUR
+BK10050,2024-08-28 00:00:00,Customer 104,Central,AnalyticsAddon,New License,Wei Chen,11179.83,BRL
+BK10230,2024-03-24,Customer 010,south,CorePlatform,New License,Anna Kowalski,149693.01,CAD
+BK10243,2025-05-22 00:00:00,Customer 083,EAST,SecuritySuite,Services,Tom Becker,75261.87,USD
+BK10270,2024-04-15 00:00:00,Customer 046,East,SecuritySuite,Services,John Smith,5184.29,EUR
+BK10032,2024-12-23,Customer 048,east,AnalyticsAddon,Services,John Smith,150572.86,GBP
+BK10310,2024-05-03 00:00:00,Customer 062,South,AnalyticsAddon,Services,Priya Sharma,18811.6,INR
+BK10307,2024-07-26,Customer 021,west ,CorePlatform,Support,Sara Cohen,47318.9,USD
+BK10017,08/04/2024,Customer 052,West,SecuritySuite,Services,Sara Cohen,162231.69,EUR
+BK10182,06/09/2025,Customer 019,West,DataConnect,New License,Maria Garcia,25342.71,USD
+BK10021,07/13/2024,Customer 085,EAST,SecuritySuite,Services,John Smith,75765.1,CAD
+BK10005,2025-01-05,Customer 006,West,AnalyticsAddon,Support,Maria Garcia,177384.21,CAD
+BK10236,2025-01-21 00:00:00,Customer 088,south,AnalyticsAddon,Support,Priya Sharma,23998.07,BRL
+BK10047,05/10/2024,Customer 086,west ,AnalyticsAddon,Support,Sara Cohen,74875.3,INR
+BK10288,03/05/2024,Customer 047,east,AnalyticsAddon,Services,John Smith,23170.03,GBP
+BK10306,2025-04-15 00:00:00,Customer 119,East ,DataConnect,Services,John Smith,3119.64,BRL
+BK10037,06/01/2024,Customer 075,East ,DataConnect,Renewal,Tom Becker,10403.71,USD
+BK10234,03/15/2024,Customer 045,East,CorePlatform,New License,Tom Becker,177546.29,EUR
+BK10275,2024-05-19,Customer 078,Central ,AnalyticsAddon,Services,Luis Ortega,58610.44,BRL
+BK10216,12/20/2024,Customer 096,SOUTH,AnalyticsAddon,Renewal,Anna Kowalski,149547.45,USD
+BK10245,02/26/2025,Customer 050,South,SecuritySuite,Renewal,Priya Sharma,61456.55,USD
+BK10328,2024-02-06 00:00:00,Customer 042,South,DataConnect,Support,Priya Sharma,51012.66,USD
+BK10094,01/30/2024,Customer 040,West,CorePlatform,Services,Maria Garcia,19498.03,BRL
+BK10146,2025-03-22 00:00:00,Customer 051,SOUTH,SecuritySuite,Renewal,Priya Sharma,61953.15,USD
+BK10014,2024-11-01 00:00:00,Customer 048,West,CorePlatform,Support,Maria Garcia,89483.21,USD
+BK10220,2024-10-19,Customer 084,East ,CorePlatform,Renewal,John Smith,76965.64,INR
+BK10231,07/26/2024,Customer 042,West,DataConnect,New License,Maria Garcia,123412.26,GBP
+BK10205,2024-12-13 00:00:00,Customer 026,Central ,DataConnect,New License,Wei Chen,11018.69,USD
+BK10362,2024-08-18 00:00:00,Customer 010,West,SecuritySuite,New License,Sara Cohen,59412.89,BRL
+BK10363,2024-03-16,Customer 114,central,AnalyticsAddon,New License,Wei Chen,99827.19,CAD
+BK10143,01/24/2025,Customer 010,west ,CorePlatform,Services,Sara Cohen,6317.25,CAD
+BK10272,2024-05-29 00:00:00,Customer 056,east,DataConnect,Support,John Smith,88708.94,USD
+BK10303,01/12/2025,Customer 042,south,CorePlatform,New License,Anna Kowalski,132374.95,EUR
+BK10163,03/27/2025,Customer 100,SOUTH,DataConnect,Renewal,Anna Kowalski,147589.75,INR
+BK10329,01/16/2025,Customer 023,East ,CorePlatform,Services,John Smith,15199.98,EUR
+BK10153,2024-12-17 00:00:00,Customer 006,East ,DataConnect,Services,John Smith,95760.13,GBP
+BK10337,2025-02-06 00:00:00,Customer 058,central,AnalyticsAddon,New License,Luis Ortega,170009.18,USD
+BK10188,2024-06-27 00:00:00,Customer 016,Central,AnalyticsAddon,Renewal,Wei Chen,142896.03,USD
+BK10276,11/22/2024,Customer 074,Central,SecuritySuite,Services,Luis Ortega,52613.13,INR
+BK10121,2025-01-02,Customer 036,East ,CorePlatform,Services,Tom Becker,19226.2,USD
+BK10199,2025-04-05 00:00:00,Customer 013,West,SecuritySuite,Services,Maria Garcia,155957.0,EUR
+BK10241,2024-02-27 00:00:00,Customer 030,West,SecuritySuite,Support,Sara Cohen,44932.01,CAD
+BK10296,2025-01-10,Customer 070,East ,DataConnect,New License,Tom Becker,133270.0,GBP
+BK10359,2024-03-20 00:00:00,Customer 041,West,CorePlatform,Support,Sara Cohen,82053.5,USD
+BK10083,06/09/2024,Customer 058,EAST,SecuritySuite,New License,Tom Becker,43971.29,GBP
+BK10128,2024-04-20 00:00:00,Customer 010,South,SecuritySuite,Renewal,Anna Kowalski,14625.76,USD
+BK10253,2024-12-11 00:00:00,Customer 093,Central ,DataConnect,Services,Luis Ortega,32777.36,INR
+BK10065,01/12/2025,Customer 100,West,SecuritySuite,New License,Maria Garcia,105427.2,CAD
+BK10137,2024-07-04 00:00:00,Customer 009,West,CorePlatform,New License,Sara Cohen,135061.78,USD
+BK10162,04/04/2025,Customer 040,west ,AnalyticsAddon,Support,Maria Garcia,123060.31,EUR
+BK10397,03/13/2024,Customer 065,South,DataConnect,Support,Priya Sharma,76119.98,CAD
+BK10079,02/22/2024,Customer 015,Central,DataConnect,Services,Luis Ortega,16112.54,GBP
+BK10077,10/30/2024,Customer 023,west ,CorePlatform,Renewal,Sara Cohen,51553.1,BRL
+BK10293,2025-01-02 00:00:00,Customer 018,East ,DataConnect,Services,Tom Becker,75416.78,EUR
+BK10287,2024-01-30 00:00:00,Customer 076,west ,DataConnect,New License,Sara Cohen,127738.2,USD
+BK10265,02/24/2024,Customer 030,East,SecuritySuite,Services,Tom Becker,174498.93,USD
+BK10000,2024-04-24 00:00:00,Customer 032,East ,AnalyticsAddon,New License,Tom Becker,122775.81,CAD
+BK10302,2024-10-02 00:00:00,Customer 058,South,CorePlatform,Services,Anna Kowalski,94263.58,USD
+BK10177,2024-07-14 00:00:00,Customer 111,Central,SecuritySuite,Support,Luis Ortega,25032.08,USD
+BK10202,2024-10-15,Customer 037,south,CorePlatform,New License,Anna Kowalski,79274.22,CAD
+BK10364,04/05/2024,Customer 091,Central,DataConnect,Renewal,Luis Ortega,110495.22,EUR
+BK10141,05/13/2025,Customer 029,central,CorePlatform,New License,Wei Chen,39182.89,BRL
+BK10342,05/23/2024,Customer 008,East ,AnalyticsAddon,Renewal,John Smith,148790.19,USD
+BK10308,2024-06-18 00:00:00,Customer 081,east,AnalyticsAddon,Services,Tom Becker,119020.89,GBP
+BK10210,04/22/2024,Customer 057,west ,DataConnect,Renewal,Maria Garcia,76093.94,USD
+BK10030,2024-09-28 00:00:00,Customer 086,south,SecuritySuite,Services,Priya Sharma,58963.36,INR
+BK10181,02/13/2024,Customer 036,Central ,CorePlatform,New License,Luis Ortega,121799.55,EUR
+BK10136,2025-03-15,Customer 004,East ,SecuritySuite,Support,Tom Becker,166112.14,USD
+BK10370,2025-04-21 00:00:00,Customer 108,central,CorePlatform,Renewal,Wei Chen,136145.62,GBP
+BK10022,2024-02-25,Customer 052,east,CorePlatform,Renewal,John Smith,36911.44,EUR
+BK10339,2024-07-31,Customer 060,SOUTH,CorePlatform,New License,Anna Kowalski,30897.92,GBP
+BK10113,10/29/2024,Customer 023,Central,AnalyticsAddon,Support,Luis Ortega,96960.87,CAD
+BK10117,2024-12-01 00:00:00,Customer 082,west ,SecuritySuite,Services,Maria Garcia,23651.64,USD
+BK10334,2024-08-31,Customer 008,South,SecuritySuite,New License,Anna Kowalski,10770.35,USD
+BK10298,2024-08-30 00:00:00,Customer 111,West,DataConnect,Renewal,Sara Cohen,112058.76,INR
+BK10289,05/16/2025,Customer 079,central,CorePlatform,Support,Luis Ortega,65301.33,EUR
+BK10344,2024-12-05 00:00:00,Customer 060,East,AnalyticsAddon,Services,John Smith,148438.32,USD
+BK10140,03/28/2025,Customer 028,south,CorePlatform,Support,Anna Kowalski,79094.71,USD
+BK10193,2025-06-15 00:00:00,Customer 033,Central,SecuritySuite,Renewal,Wei Chen,113628.96,GBP
+BK10255,2024-02-19 00:00:00,Customer 018,East ,CorePlatform,Renewal,Tom Becker,4618.04,EUR
+BK10012,2025-04-24 00:00:00,Customer 088,Central ,CorePlatform,Support,Wei Chen,139041.98,USD
+BK10071,2024-07-05 00:00:00,Customer 046,SOUTH,SecuritySuite,Support,Priya Sharma,158816.64,GBP
+BK10240,2025-04-02 00:00:00,Customer 095,East,DataConnect,Services,John Smith,44478.05,USD
+BK10061,2024-03-26,Customer 111,SOUTH,AnalyticsAddon,New License,Priya Sharma,49047.67,USD
+BK10285,2024-04-27,Customer 083,East,AnalyticsAddon,Renewal,Tom Becker,94330.92,EUR
+BK10125,2024-08-31 00:00:00,Customer 023,central,CorePlatform,Renewal,Wei Chen,134284.1,EUR
+BK10330,2024-10-16 00:00:00,Customer 012,Central ,DataConnect,New License,Luis Ortega,68298.73,USD
+BK10349,2025-02-01 00:00:00,Customer 004,central,AnalyticsAddon,New License,Wei Chen,161550.37,INR
+BK10126,2024-03-06 00:00:00,Customer 100,SOUTH,CorePlatform,Services,Anna Kowalski,92179.45,BRL
+BK10278,2024-10-25 00:00:00,Customer 087,EAST,AnalyticsAddon,Support,Tom Becker,45837.75,GBP
+BK10312,2024-05-16 00:00:00,Customer 068,West,CorePlatform,Renewal,Maria Garcia,80897.6,INR
+BK10207,2025-02-06 00:00:00,Customer 065,Central ,DataConnect,Support,Luis Ortega,87055.99,USD
+BK10283,04/17/2024,Customer 118,Central,CorePlatform,Renewal,Luis Ortega,64654.17,USD
+BK10013,2024-10-27 00:00:00,Customer 059,South,SecuritySuite,Renewal,Priya Sharma,92859.66,USD
+BK10195,02/16/2024,Customer 099,Central ,DataConnect,New License,Wei Chen,91152.74,GBP
+BK10142,2024-05-20 00:00:00,Customer 042,Central,CorePlatform,Services,Luis Ortega,135221.5,USD
+BK10269,2024-10-03,Customer 012,East ,DataConnect,Services,John Smith,101586.35,EUR
+BK10221,2024-02-07 00:00:00,Customer 024,south,SecuritySuite,New License,Anna Kowalski,4640.29,EUR
+BK10377,04/13/2024,Customer 113,central,SecuritySuite,Services,Luis Ortega,118897.42,EUR
+BK10088,2024-08-22 00:00:00,Customer 074,East,AnalyticsAddon,Services,Tom Becker,94856.6,EUR
+BK10190,05/05/2025,Customer 106,south,CorePlatform,Renewal,Anna Kowalski,175111.21,GBP
+BK10392,02/28/2024,Customer 088,South,CorePlatform,Services,Anna Kowalski,179552.03,USD
+BK10110,2024-10-29 00:00:00,Customer 107,Central ,DataConnect,Support,Wei Chen,4433.34,CAD
+BK10251,2025-02-27,Customer 095,East ,CorePlatform,Support,John Smith,100936.15,EUR
+BK10158,2025-06-23 00:00:00,Customer 066,east,CorePlatform,Support,Tom Becker,57669.29,BRL
+BK10133,2024-05-13,Customer 086,East,DataConnect,Support,Tom Becker,157628.5,BRL
+BK10132,2025-04-30 00:00:00,Customer 107,East,CorePlatform,Services,John Smith,20091.9,INR
+BK10333,2024-01-10 00:00:00,Customer 098,Central ,DataConnect,Support,Wei Chen,21398.98,EUR
+BK10171,2024-01-17 00:00:00,Customer 038,west ,CorePlatform,Support,Maria Garcia,45579.87,EUR
+BK10057,04/22/2025,Customer 027,SOUTH,DataConnect,New License,Priya Sharma,154641.57,INR
+BK10297,09/10/2024,Customer 058,central,SecuritySuite,New License,Wei Chen,80715.37,BRL
+BK10147,2025-06-06,Customer 116,east,SecuritySuite,Renewal,John Smith,44819.59,USD
+BK10291,2025-01-17 00:00:00,Customer 054,West,AnalyticsAddon,Services,Sara Cohen,77877.86,EUR
+BK10201,01/24/2024,Customer 065,EAST,AnalyticsAddon,Renewal,Tom Becker,106251.91,USD
+BK10003,2025-03-08 00:00:00,Customer 020,Central,SecuritySuite,New License,Luis Ortega,19416.01,USD
+BK10080,2024-02-24,Customer 104,West,SecuritySuite,New License,Maria Garcia,178923.51,USD
+BK10167,2025-01-17,Customer 011,west ,AnalyticsAddon,New License,Sara Cohen,59407.22,USD
+BK10365,2024-02-24,Customer 027,East ,DataConnect,Support,Tom Becker,119925.83,USD
+BK10016,06/29/2025,Customer 085,west ,AnalyticsAddon,Support,Maria Garcia,96398.26,GBP
+BK10247,2024-02-10,Customer 103,East ,DataConnect,Renewal,John Smith,156896.87,USD
+BK10200,2024-06-12 00:00:00,Customer 025,Central,DataConnect,Services,Luis Ortega,91280.47,USD
+BK10309,2024-01-02,Customer 010,West,AnalyticsAddon,Services,Sara Cohen,4643.79,GBP
+BK10212,2025-01-20 00:00:00,Customer 059,Central ,SecuritySuite,Support,Wei Chen,122628.74,CAD
+BK10124,2024-05-13 00:00:00,Customer 015,Central ,CorePlatform,Renewal,Wei Chen,5630.28,INR
+BK10203,01/09/2025,Customer 006,SOUTH,CorePlatform,Renewal,Anna Kowalski,67166.71,USD
+BK10211,2025-05-28 00:00:00,Customer 091,South,AnalyticsAddon,Support,Priya Sharma,179667.75,EUR
+BK10186,08/07/2024,Customer 026,Central,AnalyticsAddon,New License,Luis Ortega,83011.56,CAD
+BK10347,2024-03-30 00:00:00,Customer 018,central,AnalyticsAddon,Renewal,Luis Ortega,114643.53,INR
+BK10378,2025-04-29 00:00:00,Customer 036,EAST,AnalyticsAddon,Services,John Smith,9864.51,CAD
+BK10198,11/22/2024,Customer 017,central,CorePlatform,Support,Luis Ortega,45787.6,USD
+BK10239,04/25/2024,Customer 079,East,AnalyticsAddon,Renewal,Tom Becker,14910.49,EUR
+BK10375,2024-03-09 00:00:00,Customer 072,EAST,SecuritySuite,Support,Tom Becker,94984.81,CAD
+BK10360,2024-09-12,Customer 033,East,CorePlatform,New License,Tom Becker,71310.87,INR
+BK10238,2025-03-10,Customer 032,SOUTH,SecuritySuite,Renewal,Priya Sharma,51790.0,CAD
+BK10262,2025-05-01 00:00:00,Customer 119,Central,SecuritySuite,New License,Wei Chen,34745.75,CAD
+BK10173,2025-01-31 00:00:00,Customer 096,Central,SecuritySuite,New License,Luis Ortega,64030.04,INR
+BK10145,11/28/2024,Customer 107,West,SecuritySuite,New License,Sara Cohen,80297.98,USD
+BK10123,2024-08-09 00:00:00,Customer 100,West,CorePlatform,Support,Sara Cohen,154937.88,USD
+BK10264,2025-02-02 00:00:00,Customer 097,Central ,AnalyticsAddon,New License,Luis Ortega,91640.33,BRL
+BK10281,02/15/2024,Customer 102,SOUTH,CorePlatform,New License,Anna Kowalski,20453.36,USD
+BK10026,10/19/2024,Customer 020,South,SecuritySuite,Renewal,Anna Kowalski,174461.56,EUR
+BK10040,2024-12-06 00:00:00,Customer 035,South,CorePlatform,Services,Priya Sharma,157373.52,CAD
+BK10015,01/06/2025,Customer 008,Central,CorePlatform,New License,Wei Chen,132547.64,INR
+BK10185,2024-07-09,Customer 117,south,CorePlatform,Support,Anna Kowalski,140168.71,GBP
+BK10178,02/13/2025,Customer 044,South,DataConnect,Services,Anna Kowalski,68020.41,INR
+BK10358,02/04/2025,Customer 078,east,AnalyticsAddon,New License,John Smith,168793.74,USD
+BK10028,2024-07-09 00:00:00,Customer 087,East ,DataConnect,New License,John Smith,169662.51,EUR
+BK10042,12/02/2024,Customer 099,central,SecuritySuite,Services,Wei Chen,123274.71,CAD
+BK10387,2024-07-30 00:00:00,Customer 066,Central,CorePlatform,Services,Luis Ortega,164338.23,GBP
+BK10166,2025-03-23 00:00:00,Customer 105,EAST,SecuritySuite,New License,John Smith,76436.75,USD
+BK10107,05/26/2024,Customer 082,west ,DataConnect,Support,Sara Cohen,121030.81,CAD
+BK10204,2025-01-30,Customer 106,south,CorePlatform,Renewal,Anna Kowalski,175589.66,USD
+BK10122,2024-01-22 00:00:00,Customer 032,East ,AnalyticsAddon,New License,Tom Becker,149877.76,EUR
+BK10373,05/29/2025,Customer 097,west ,AnalyticsAddon,Renewal,Maria Garcia,175073.18,INR
+BK10367,2024-10-28 00:00:00,Customer 013,South,AnalyticsAddon,Renewal,Priya Sharma,115959.75,BRL
+BK10098,2024-11-01 00:00:00,Customer 058,south,DataConnect,Support,Priya Sharma,61841.87,INR
+BK10317,2025-01-04 00:00:00,Customer 050,Central ,DataConnect,Support,Wei Chen,99705.05,USD
+BK10069,2024-10-03 00:00:00,Customer 056,south,SecuritySuite,Support,Anna Kowalski,153753.23,INR
+BK10340,2024-02-11 00:00:00,Customer 019,West,AnalyticsAddon,Support,Sara Cohen,73135.27,USD
+BK10226,2024-09-30 00:00:00,Customer 075,Central ,CorePlatform,Support,Luis Ortega,118701.96,GBP
+BK10292,06/26/2024,Customer 037,West,AnalyticsAddon,Support,Sara Cohen,152031.38,GBP
+BK10326,06/10/2024,Customer 115,Central ,CorePlatform,Renewal,Wei Chen,134118.05,USD
+BK10376,2024-01-13 00:00:00,Customer 054,South,AnalyticsAddon,New License,Priya Sharma,166712.29,EUR
+BK10087,05/20/2025,Customer 077,South,DataConnect,Support,Priya Sharma,109857.31,USD
+BK10208,2024-12-05,Customer 075,east,CorePlatform,Services,Tom Becker,49998.89,GBP
+BK10095,2024-04-26,Customer 083,South,DataConnect,Support,Priya Sharma,93070.35,USD
+BK10357,2024-06-28 00:00:00,Customer 094,south,SecuritySuite,Renewal,Anna Kowalski,34454.37,USD
+BK10331,2024-11-07 00:00:00,Customer 048,West,DataConnect,Renewal,Sara Cohen,132646.01,EUR
+BK10224,10/29/2024,Customer 079,West,DataConnect,Services,Maria Garcia,94204.68,USD
+BK10348,01/20/2024,Customer 062,south,DataConnect,Support,Anna Kowalski,164543.83,EUR
+BK10366,04/08/2024,Customer 074,EAST,AnalyticsAddon,New License,Tom Becker,66866.72,EUR
+BK10112,2024-05-20 00:00:00,Customer 040,EAST,CorePlatform,Support,John Smith,132627.68,USD
+BK10228,2024-10-29 00:00:00,Customer 029,Central,DataConnect,Renewal,Wei Chen,83531.23,BRL
+BK10091,02/07/2024,Customer 041,SOUTH,SecuritySuite,New License,Priya Sharma,174722.7,EUR
+BK10343,2024-03-27 00:00:00,Customer 003,Central,AnalyticsAddon,Services,Wei Chen,146245.86,USD
+BK10043,2024-12-05 00:00:00,Customer 113,east,AnalyticsAddon,Support,John Smith,9771.52,EUR
+BK10165,2024-05-07 00:00:00,Customer 098,Central,SecuritySuite,Services,Wei Chen,163239.2,USD
+BK10279,03/09/2025,Customer 058,south,DataConnect,Services,Priya Sharma,97583.03,CAD
+BK10035,2025-06-01 00:00:00,Customer 116,South,CorePlatform,Services,Anna Kowalski,149794.61,USD
+BK10218,2024-08-19 00:00:00,Customer 013,west ,SecuritySuite,Services,Maria Garcia,20796.45,INR
+BK10372,03/04/2025,Customer 061,SOUTH,CorePlatform,Services,Priya Sharma,162791.56,GBP
+BK10336,2025-02-07 00:00:00,Customer 056,East ,AnalyticsAddon,Support,John Smith,49195.4,USD
+BK10316,2024-09-02 00:00:00,Customer 015,South,DataConnect,New License,Anna Kowalski,96506.71,BRL
+BK10315,2024-10-18,Customer 027,East ,DataConnect,Support,Tom Becker,117372.05,INR
+BK10217,2024-10-05,Customer 079,West,AnalyticsAddon,Renewal,Maria Garcia,11985.48,CAD
+BK10325,2024-03-19 00:00:00,Customer 066,SOUTH,CorePlatform,Services,Anna Kowalski,155106.68,USD
+BK10029,02/10/2024,Customer 085,east,SecuritySuite,Renewal,Tom Becker,121541.5,USD
+BK10189,01/12/2025,Customer 079,South,CorePlatform,Support,Priya Sharma,73474.32,GBP
+BK10109,09/13/2024,Customer 026,SOUTH,DataConnect,New License,Anna Kowalski,44985.41,EUR
+BK10160,2025-06-03,Customer 113,East ,DataConnect,Renewal,Tom Becker,31717.76,INR
+BK10184,2024-03-19,Customer 051,west ,SecuritySuite,Renewal,Sara Cohen,173012.05,USD
+BK10368,04/29/2025,Customer 101,EAST,DataConnect,Services,Tom Becker,161393.31,USD
+BK10284,2024-07-30,Customer 061,South,DataConnect,Services,Anna Kowalski,59446.98,USD
+BK10089,10/11/2024,Customer 082,west ,CorePlatform,Services,Sara Cohen,64589.11,USD
+BK10351,09/29/2024,Customer 074,EAST,SecuritySuite,Renewal,John Smith,34169.77,EUR
+BK10025,2025-02-14 00:00:00,Customer 049,East,DataConnect,Support,John Smith,166993.7,INR
+BK10237,2025-02-06 00:00:00,Customer 107,West,CorePlatform,Support,Maria Garcia,84951.69,GBP
+BK10135,2025-05-08 00:00:00,Customer 045,West,SecuritySuite,New License,Maria Garcia,137981.2,EUR
+BK10286,2024-12-04,Customer 030,SOUTH,AnalyticsAddon,Renewal,Anna Kowalski,116364.76,EUR
+BK10354,07/25/2024,Customer 092,West,SecuritySuite,New License,Sara Cohen,6878.58,EUR
+BK10118,02/08/2024,Customer 015,Central,AnalyticsAddon,Renewal,Luis Ortega,71790.31,USD
+BK10131,2024-04-07 00:00:00,Customer 041,Central ,SecuritySuite,Support,Luis Ortega,171785.88,GBP
+BK10352,2025-01-02 00:00:00,Customer 073,East ,AnalyticsAddon,Services,Tom Becker,98956.05,USD
+BK10038,2024-02-10,Customer 088,Central,CorePlatform,Support,Wei Chen,141080.57,CAD
+BK10299,07/30/2024,Customer 069,east,AnalyticsAddon,Support,Tom Becker,176283.03,USD
+BK10046,2024-12-04,Customer 093,central,SecuritySuite,Services,Wei Chen,60734.37,GBP
+BK10076,2024-07-08 00:00:00,Customer 095,west ,SecuritySuite,Support,Maria Garcia,176550.38,INR
+BK10252,03/03/2025,Customer 026,central,AnalyticsAddon,Services,Wei Chen,103852.74,USD
+BK10056,2024-03-23 00:00:00,Customer 030,west ,AnalyticsAddon,Renewal,Maria Garcia,14368.51,EUR
+BK10394,2025-05-02 00:00:00,Customer 109,Central,AnalyticsAddon,Support,Luis Ortega,20275.74,USD
+BK10006,2024-04-13 00:00:00,Customer 059,south,SecuritySuite,Renewal,Anna Kowalski,68522.03,USD
+BK10001,2024-03-30 00:00:00,Customer 004,South,AnalyticsAddon,Renewal,Priya Sharma,92447.89,USD
+BK10120,2025-01-14,Customer 057,West,SecuritySuite,New License,Sara Cohen,176624.21,USD
+BK10169,2024-01-06,Customer 033,East ,AnalyticsAddon,Services,John Smith,22680.07,USD
+BK10246,04/05/2025,Customer 069,Central ,AnalyticsAddon,New License,Wei Chen,50517.7,GBP
+BK10106,06/27/2025,Customer 022,South,CorePlatform,Services,Priya Sharma,112688.74,USD
+BK10294,2025-03-30 00:00:00,Customer 011,south,CorePlatform,Renewal,Priya Sharma,54699.91,USD
+BK10313,2024-06-04 00:00:00,Customer 111,South,CorePlatform,New License,Anna Kowalski,27782.33,USD
+BK10020,05/12/2025,Customer 093,West,DataConnect,Renewal,Maria Garcia,141877.64,INR
+BK10082,04/11/2024,Customer 034,West,CorePlatform,Renewal,Maria Garcia,45456.14,EUR
+BK10151,2025-01-12,Customer 083,Central,DataConnect,Services,Wei Chen,105718.31,BRL
+BK10209,2024-08-21 00:00:00,Customer 022,EAST,AnalyticsAddon,Renewal,Tom Becker,8587.98,BRL
+BK10345,01/31/2024,Customer 023,SOUTH,AnalyticsAddon,Renewal,Anna Kowalski,51671.77,EUR
+BK10103,2025-01-24,Customer 112,Central ,CorePlatform,New License,Luis Ortega,44554.33,GBP
+BK10267,2025-01-24 00:00:00,Customer 103,East ,CorePlatform,New License,Tom Becker,50431.05,USD
+BK10134,03/09/2025,Customer 077,east,SecuritySuite,New License,Tom Becker,105291.58,USD
+BK10381,2025-03-29 00:00:00,Customer 094,central,CorePlatform,Renewal,Luis Ortega,81183.84,CAD
+BK10101,2025-05-29 00:00:00,Customer 112,central,CorePlatform,Services,Wei Chen,5716.52,USD
+BK10254,2024-06-22 00:00:00,Customer 024,West,CorePlatform,New License,Sara Cohen,151515.12,USD
+BK10054,05/31/2025,Customer 115,South,DataConnect,Services,Anna Kowalski,48876.9,USD
+BK10058,01/24/2025,Customer 046,SOUTH,DataConnect,Services,Priya Sharma,98265.04,INR
+BK10144,11/16/2024,Customer 091,south,DataConnect,Support,Anna Kowalski,23385.69,USD
+BK10060,2025-02-18 00:00:00,Customer 118,West,CorePlatform,Services,Sara Cohen,107765.02,GBP
+BK10261,2024-03-25,Customer 083,SOUTH,CorePlatform,New License,Anna Kowalski,43668.67,CAD
+BK10053,2024-05-04,Customer 103,SOUTH,SecuritySuite,Services,Priya Sharma,111439.46,GBP
+BK10214,2024-10-22 00:00:00,Customer 041,west ,SecuritySuite,Support,Sara Cohen,53938.72,EUR
+BK10070,03/29/2024,Customer 032,central,DataConnect,Support,Luis Ortega,8079.9,CAD
+BK10138,2025-03-05 00:00:00,Customer 021,SOUTH,SecuritySuite,Support,Anna Kowalski,140499.9,EUR
+BK10353,2024-02-08,Customer 030,East ,CorePlatform,Services,John Smith,3120.98,CAD
+BK10051,03/15/2024,Customer 114,south,AnalyticsAddon,Services,Anna Kowalski,90504.76,USD
+BK10215,2025-01-23 00:00:00,Customer 099,South,SecuritySuite,New License,Anna Kowalski,53910.57,GBP
+BK10154,01/07/2025,Customer 050,central,SecuritySuite,New License,Luis Ortega,142693.17,GBP
+BK10004,12/18/2024,Customer 094,central,CorePlatform,Services,Wei Chen,16947.64,USD
+BK10105,01/30/2024,Customer 102,East,SecuritySuite,Support,Tom Becker,69346.87,USD
+BK10078,2024-10-26 00:00:00,Customer 014,West,SecuritySuite,Services,Sara Cohen,87732.41,USD
+BK10242,2025-06-17 00:00:00,Customer 039,west ,CorePlatform,Renewal,Sara Cohen,113800.79,EUR
+BK10129,11/28/2024,Customer 059,south,DataConnect,New License,Anna Kowalski,143378.01,USD
+BK10280,2025-03-04,Customer 090,East,CorePlatform,Renewal,Tom Becker,119395.49,USD
+BK10332,2024-09-08 00:00:00,Customer 120,west ,CorePlatform,Renewal,Maria Garcia,98853.5,GBP
+BK10194,2024-04-05 00:00:00,Customer 022,West,SecuritySuite,New License,Maria Garcia,149066.82,USD
+BK10227,2024-03-04,Customer 040,East ,DataConnect,Support,Tom Becker,125181.4,GBP
+BK10213,2024-09-27 00:00:00,Customer 032,SOUTH,SecuritySuite,Renewal,Priya Sharma,169642.94,BRL
+BK10059,2024-08-13 00:00:00,Customer 035,SOUTH,DataConnect,New License,Priya Sharma,71827.72,GBP
+BK10322,2025-04-09,Customer 086,East ,CorePlatform,New License,Tom Becker,128298.41,GBP
+BK10010,2024-09-26 00:00:00,Customer 047,South,AnalyticsAddon,Services,Anna Kowalski,19090.97,USD
+BK10055,10/10/2024,Customer 036,SOUTH,CorePlatform,Support,Priya Sharma,44505.36,USD
+BK10395,2024-09-21,Customer 084,West,AnalyticsAddon,Support,Sara Cohen,42529.04,CAD
+BK10304,2025-01-01 00:00:00,Customer 028,EAST,AnalyticsAddon,Services,Tom Becker,50531.02,INR
+BK10024,2024-04-10,Customer 012,East ,AnalyticsAddon,Services,John Smith,88958.48,USD
+BK10319,2025-02-11 00:00:00,Customer 055,Central ,DataConnect,New License,Luis Ortega,116375.1,EUR
+BK10382,2025-02-20 00:00:00,Customer 106,South,AnalyticsAddon,New License,Anna Kowalski,58068.79,EUR
+BK10130,08/08/2024,Customer 114,South,DataConnect,Support,Anna Kowalski,149453.2,USD
+BK10327,2024-01-13 00:00:00,Customer 061,west ,DataConnect,Renewal,Maria Garcia,34676.09,BRL
+BK10192,2024-02-26 00:00:00,Customer 039,East ,AnalyticsAddon,Support,John Smith,168448.6,USD
+BK10383,2024-05-18 00:00:00,Customer 025,East ,CorePlatform,Renewal,John Smith,8853.57,USD
+BK10187,03/31/2025,Customer 086,east,CorePlatform,Support,Tom Becker,160765.71,CAD
+BK10063,2024-01-20,Customer 029,East,CorePlatform,New License,Tom Becker,171081.28,USD
+BK10025,02/14/2025,Customer 049,East,DataConnect,Support,John Smith,166993.7,INR
+BK10258,2024-06-01 00:00:00,Customer 080,West,SecuritySuite,Support,Maria Garcia,50316.48,USD
+BK10361,2024-06-19 00:00:00,Customer 113,SOUTH,SecuritySuite,Services,Anna Kowalski,20952.86,EUR
+BK10011,2024-04-22 00:00:00,Customer 102,West,DataConnect,New License,Maria Garcia,71103.81,EUR
+BK10108,04/21/2025,Customer 010,central,SecuritySuite,Support,Wei Chen,116092.15,EUR
+BK10067,2024-05-03 00:00:00,Customer 069,EAST,SecuritySuite,New License,Tom Becker,92555.06,USD
+BK10114,06/17/2024,Customer 104,central,SecuritySuite,New License,Luis Ortega,85894.66,USD
+BK10116,09/25/2024,Customer 014,south,AnalyticsAddon,Services,Anna Kowalski,7429.36,CAD
+BK10380,2024-11-06 00:00:00,Customer 108,central,CorePlatform,Renewal,Luis Ortega,26786.24,BRL
+BK10388,2024-01-09 00:00:00,Customer 078,west ,SecuritySuite,Services,Sara Cohen,161500.49,CAD
+BK10084,2025-04-09 00:00:00,Customer 119,east,AnalyticsAddon,Services,John Smith,23315.41,USD
+BK10096,05/09/2025,Customer 059,south,AnalyticsAddon,Services,Priya Sharma,36738.04,EUR
+BK10183,2025-01-10 00:00:00,Customer 073,Central,AnalyticsAddon,Services,Luis Ortega,170941.76,USD
+BK10090,04/17/2024,Customer 053,West,DataConnect,Support,Sara Cohen,120277.29,EUR
+BK10175,2025-05-05,Customer 009,West,DataConnect,New License,Maria Garcia,54939.34,USD
+BK10068,2025-03-06 00:00:00,Customer 056,SOUTH,DataConnect,Renewal,Priya Sharma,80081.22,INR
+BK10398,2024-06-03 00:00:00,Customer 044,west ,DataConnect,Renewal,Maria Garcia,58999.87,GBP
+BK10172,2024-03-28,Customer 068,Central ,CorePlatform,Services,Wei Chen,157579.66,USD
+BK10268,06/06/2024,Customer 047,South,CorePlatform,New License,Anna Kowalski,169903.96,EUR
+BK10305,2024-12-11 00:00:00,Customer 101,west ,CorePlatform,New License,Sara Cohen,20624.73,INR
+BK10266,2024-10-06,Customer 030,SOUTH,DataConnect,Services,Anna Kowalski,35875.6,EUR
+BK10233,02/29/2024,Customer 093,South,DataConnect,Support,Anna Kowalski,147512.22,INR
+BK10148,2024-07-21,Customer 098,West,CorePlatform,Renewal,Maria Garcia,171378.71,GBP
+BK10152,02/12/2024,Customer 042,south,DataConnect,Renewal,Priya Sharma,172516.86,EUR
+BK10023,2024-05-23,Customer 036,SOUTH,AnalyticsAddon,New License,Priya Sharma,81434.14,CAD
+BK10033,2025-06-25,Customer 120,East,AnalyticsAddon,Support,Tom Becker,23430.87,USD
+BK10085,2024-06-01 00:00:00,Customer 010,Central,AnalyticsAddon,Support,Wei Chen,108322.79,INR
+BK10156,06/02/2024,Customer 075,Central ,AnalyticsAddon,Support,Wei Chen,57911.02,GBP
+BK10301,2024-05-15 00:00:00,Customer 092,west ,AnalyticsAddon,Services,Maria Garcia,89634.19,EUR
+BK10257,2024-01-18 00:00:00,Customer 003,Central ,DataConnect,Renewal,Luis Ortega,21941.91,USD
+BK10385,2025-05-15 00:00:00,Customer 112,SOUTH,SecuritySuite,Support,Priya Sharma,31941.91,CAD
+BK10052,2024-01-06 00:00:00,Customer 029,East ,DataConnect,New License,Tom Becker,101660.83,CAD
+BK10393,2025-03-04 00:00:00,Customer 095,South,AnalyticsAddon,Support,Anna Kowalski,131599.33,USD
+BK10159,12/15/2024,Customer 029,South,AnalyticsAddon,New License,Priya Sharma,55355.2,INR
+BK10176,07/23/2024,Customer 120,east,DataConnect,Services,Tom Becker,47836.54,INR
+BK10355,05/25/2024,Customer 010,east,DataConnect,New License,Tom Becker,62571.31,USD
+BK10115,08/19/2024,Customer 012,SOUTH,CorePlatform,Support,Anna Kowalski,97973.3,EUR
+BK10127,2024-02-14 00:00:00,Customer 083,Central,CorePlatform,Services,Luis Ortega,152971.84,EUR
+BK10320,06/05/2024,Customer 040,Central,AnalyticsAddon,Renewal,Wei Chen,97941.06,USD
+BK10384,2025-01-04,Customer 048,west ,DataConnect,New License,Sara Cohen,123567.86,USD
+BK10346,06/01/2024,Customer 083,east,DataConnect,Services,John Smith,159251.81,EUR
+BK10009,2024-11-18 00:00:00,Customer 051,West,DataConnect,Renewal,Sara Cohen,49883.79,USD
+BK10097,2024-05-19 00:00:00,Customer 099,EAST,SecuritySuite,Support,Tom Becker,148237.26,USD
+BK10271,2024-03-27 00:00:00,Customer 088,west ,AnalyticsAddon,Renewal,Maria Garcia,50598.66,USD
+BK10164,2024-05-21 00:00:00,Customer 083,central,SecuritySuite,New License,Wei Chen,128917.97,EUR
+BK10007,09/30/2024,Customer 069,East ,AnalyticsAddon,Services,John Smith,70163.61,BRL
+BK10191,2025-04-05,Customer 017,south,AnalyticsAddon,Renewal,Anna Kowalski,79573.44,CAD
+BK10374,05/09/2024,Customer 011,EAST,AnalyticsAddon,Renewal,Tom Becker,150637.14,USD
+BK10102,2024-06-07,Customer 101,east,SecuritySuite,Services,Tom Becker,118021.09,CAD
+BK10273,09/14/2024,Customer 077,West,AnalyticsAddon,Services,Sara Cohen,21934.11,USD
+BK10019,2024-03-01 00:00:00,Customer 116,West,SecuritySuite,New License,Maria Garcia,94005.63,USD
+BK10002,2024-07-22,Customer 058,south,SecuritySuite,New License,Priya Sharma,137308.9,USD
+BK10196,10/23/2024,Customer 032,Central ,DataConnect,Support,Luis Ortega,83277.31,GBP
+BK10244,2024-07-07,Customer 109,South,SecuritySuite,Renewal,Priya Sharma,145622.38,CAD
+BK10210,04/22/2024,Customer 057,west ,DataConnect,Renewal,Maria Garcia,76093.94,USD
+BK10206,12/07/2024,Customer 020,south,AnalyticsAddon,Support,Anna Kowalski,167852.27,USD
+BK10219,2024-01-06 00:00:00,Customer 084,west ,DataConnect,Renewal,Sara Cohen,136796.26,USD
+BK10324,10/02/2024,Customer 043,EAST,SecuritySuite,New License,John Smith,49542.09,BRL
+BK10222,2024-04-19,Customer 059,Central ,DataConnect,Renewal,Luis Ortega,153637.57,EUR
+BK10314,01/28/2025,Customer 041,Central,AnalyticsAddon,Support,Luis Ortega,117097.84,USD
+BK10066,2025-01-19 00:00:00,Customer 010,south,AnalyticsAddon,New License,Priya Sharma,126403.16,USD
+BK10045,2024-02-15,Customer 067,south,AnalyticsAddon,Support,Priya Sharma,79339.64,BRL
+BK10390,01/18/2025,Customer 088,Central,DataConnect,New License,Luis Ortega,62522.21,USD
+BK10250,2024-09-24 00:00:00,Customer 060,Central,DataConnect,Support,Luis Ortega,164836.5,USD
+BK10081,2025-03-02 00:00:00,Customer 058,west ,SecuritySuite,Services,Sara Cohen,57052.3,GBP
+BK10391,2024-11-28,Customer 084,Central ,SecuritySuite,Renewal,Luis Ortega,29537.49,INR
+BK10295,10/22/2024,Customer 073,West,DataConnect,New License,Sara Cohen,104370.39,USD
+BK10086,2024-10-22 00:00:00,Customer 060,south,SecuritySuite,Services,Priya Sharma,169853.69,EUR
+BK10396,2025-03-06,Customer 034,Central ,SecuritySuite,Services,Luis Ortega,153664.86,EUR
+BK10389,2025-04-15 00:00:00,Customer 060,central,DataConnect,New License,Wei Chen,4300.52,BRL
