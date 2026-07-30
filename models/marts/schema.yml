@@ -1,0 +1,54 @@
+version: 2
+
+models:
+  - name: fct_bookings
+    description: One row per deduplicated booking with currency conversion details.
+    columns:
+      - name: booking_id
+        description: Unique booking identifier after staging deduplication.
+        tests:
+          - not_null
+          - unique
+
+      - name: rep_id
+        description: Stable representative identifier.
+        tests:
+          - not_null
+
+      - name: conversion_status
+        description: Indicates whether a currency rate was found.
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - CONVERTED
+                - MISSING_RATE
+
+  - name: mart_regional_performance
+    description: Regional booking performance summarized by business category.
+    columns:
+      - name: region
+        description: Sales region.
+        tests:
+          - not_null
+          - unique
+
+      - name: total_bookings_usd
+        description: Total converted booking value for the region.
+        tests:
+          - not_null
+
+      - name: booking_count
+        description: Number of deduplicated bookings in the region.
+        tests:
+          - not_null
+
+      - name: missing_rate_booking_count
+        description: Number of bookings without a matching currency rate.
+        tests:
+          - not_null
+
+      - name: pct_of_grand_total
+        description: Region’s share of total converted booking value.
+        tests:
+          - not_null
